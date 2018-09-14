@@ -1,1 +1,1 @@
-# friendapp
+# friendcompatibility
